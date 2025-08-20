@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FibonacciFinder {
+public class Test2 {
 
     public static int findNthFibonacci(int n) {
         if (n <= 1) {
